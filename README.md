@@ -1,1 +1,4 @@
-# M2P
+# CarcinoScope Fluorescence Imaging Accesory on MolecuLight i:X
+**Product Overview**  
+The CarcinoScope System (Class II device) is an assistive, modular autofluorescence imaging device designed to enhance the visualisation of skin carcinogenic lesions for screening, diagnosis and pre-operative assessment for surgical resection. The device iteratively improves on the MolecuLight iX device through an advanced, non-invasive fluorescence image capture system that is redesigned to detect skin cancer lesions in adult wounds at the point of care. As such, the CarcinoScope System is staged to redefine gaps in real-time diagnostic and intraoperative procedures in the early detection and monitoring of melanoma,
+basal and squamous cell carcinomas. The system is designed to be seamlessly integrated into dermatologist and primary care settings, as well as the surgical workflow. The device value proposition comes from flexibly interacting with and retaining the intended use of the MolecuLight i:X device for bacterial wound burden in the visible spectrum, while enabling faster and safe skin cancer detection with deeper tissue penetration.
